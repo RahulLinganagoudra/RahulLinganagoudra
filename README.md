@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivanagouda S Linganagoudra
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning shaders,system design
 - 💞️ I’m looking to collaborate on Game Programming
 - 📫 How to reach me rahulgamedevelopment@gmail.com ...
 
