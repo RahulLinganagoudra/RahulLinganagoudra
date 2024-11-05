@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivanagouda S Linganagoudra
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning shaders,system design
-- 💞️ I’m looking to collaborate on Game Programming
+- 👀 I’m interested in creating games and programming 
+- 🌱 I’m currently learning system design, unreal engine, c++
+- 💞️ I’m looking to collaborate on Game projects
 - 📫 How to reach me slinganagoudra@gmail.com ...
 
 <!---
