@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivanagouda L!
+# 👋 Hi, I'm Shivanagouda Linganagoudra!
 
 🎮 **Unity Game Programmer** | 🧠 Passionate Problem Solver | 🌟 Indie Developer
 
