@@ -23,28 +23,24 @@ I'm a **Unity Game Developer** from **India** with a passion for crafting immers
 
 ---
 
+
 ## 🧠 Skills
 
-<p align="center">
-  ![C#](https://img.shields.io/badge/C%23-f43f5e?style=flat&logo=csharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-7c3aed?style=flat&logo=cpp&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-f43f5e?style=flat&logo=unity&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-f43f5e?style=flat&logo=css3&logoColor=white)
-</p>
+![C#](https://img.shields.io/badge/C%23-f43f5e?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7c3aed?style=flat&logo=cpp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-f43f5e?style=flat&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-f43f5e?style=flat&logo=css3&logoColor=white)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulLinganagoudra)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-f43f5e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanagouda-linganagoudra-45aa44203)  
-  [![Twitter](https://img.shields.io/badge/Twitter-7c3aed?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Linganagou6097)  
-  [![Instagram](https://img.shields.io/badge/Instagram-f43f5e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mein_hindustani)  
-  [![Discord](https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rahul7624)
-</p>
-
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulLinganagoudra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f43f5e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanagouda-linganagoudra-45aa44203)
+[![Twitter](https://img.shields.io/badge/Twitter-7c3aed?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Linganagou6097)
+[![Instagram](https://img.shields.io/badge/Instagram-f43f5e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mein_hindustani)
+[![Discord](https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rahul7624)
 ---
 
 ## 🚀 Featured Projects
