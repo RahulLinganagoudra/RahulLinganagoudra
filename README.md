@@ -1,74 +1,59 @@
-# 👋 Hi, I'm Shivanagouda Linganagoudra!
+# 🎮 Shivanagouda Linganagoudra.
+   — Unity Game Programmer
 
-🎮 **Unity Game Programmer** | 🧠 Passionate Problem Solver | 🌟 Indie Developer
-
----
-
-I'm Shivanagouda Linganagoudra, an Indie Game Developer from India 🇮🇳. I specialize in building **scalable**, **interactive game systems** with a focus on gameplay feel and technical depth. Whether it's for game jams, freelance projects, or collaboration—I'm always up for creating something exciting!
+Indie Game Developer • Systems Designer • Code Enthusiast
 
 ---
 
-## 🚀 About Me
-
-- 🌍  Based in **India**
-- 🔗  **Portfolio:** [slinganagoudra.wixsite.com/portfolio](https://slinganagoudra.wixsite.com/portfolio)
-- 📫  **Email:** [slinganagoudra@gmail.com](mailto:slinganagoudra@gmail.com)
-- 🧠  Currently learning **C++**
-- 🤝  Open to **collaborating on indie / mini game projects**
+Hi there! I'm **Shivanagouda Linganagoudra**, a passionate Unity developer from 🇮🇳 India. I specialize in building modular and scalable game systems. Whether it's a solo prototype, a jam entry, or a full-blown game, I love bringing ideas to life through code.
 
 ---
 
-## 🛠️ Skills
+## 💼 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-</p>
+- 🌍 Based in **India**
+- 🖥️ [Portfolio Website](https://slinganagoudra.wixsite.com/portfolio)
+- 📧 [slinganagouda@gmail.com](mailto:slinganagouda@gmail.com)
+- 🔭 Currently learning **C++**
+- 🤝 Open for **Indie Collaborations** and **Freelance Projects**
+
+---
+
+## 🧠 Skills
+
+![C#](https://img.shields.io/badge/C%23-f43f5e?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7c3aed?style=flat&logo=cpp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-f43f5e?style=flat&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-f43f5e?style=flat&logo=css3&logoColor=white)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://discord.com/users/rahul7624" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://github.com/RahulLinganagoudra" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/mein_hindustani" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/shivanagouda-linganagoudra-45aa44203" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://twitter.com/Linganagou6097" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulLinganagoudra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f43f5e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanagouda-linganagoudra-45aa44203)
+[![Twitter](https://img.shields.io/badge/Twitter-7c3aed?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Linganagou6097)
+[![Instagram](https://img.shields.io/badge/Instagram-f43f5e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mein_hindustani)
+[![Discord](https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rahul7624)
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/RahulLinganagoudra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulLinganagoudra&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulLinganagoudra&show_icons=true&count_private=true&title_color=f43f5e&text_color=ffffff&icon_color=7c3aed&bg_color=1c1917&hide_border=true)
 
-<a href="https://github.com/RahulLinganagoudra">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulLinganagoudra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulLinganagoudra&layout=compact&title_color=f43f5e&text_color=ffffff&bg_color=1c1917&hide_border=true)
 
-<a href="https://github.com/RahulLinganagoudra">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=RahulLinganagoudra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
-</a>
-
-<a href="https://github.com/RahulLinganagoudra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulLinganagoudra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=RahulLinganagoudra&theme=dark&background=1c1917&ring=f43f5e&fire=f43f5e&currStreakLabel=7c3aed&dates=ffffff&stroke=ffffff&hide_border=true)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/RahulLinganagoudra/com.dreamertheory.gridsystem">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.gridsystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <a href="https://github.com/RahulLinganagoudra/com.dreamertheory.savingsystem">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.savingsystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-</p>
+<a href="https://github.com/RahulLinganagoudra/com.dreamertheory.gridsystem">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.gridsystem&title_color=f43f5e&text_color=ffffff&icon_color=7c3aed&bg_color=1c1917&hide_border=true" />
+</a>
+<a href="https://github.com/RahulLinganagoudra/com.dreamertheory.savingsystem">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.savingsystem&title_color=f43f5e&text_color=ffffff&icon_color=7c3aed&bg_color=1c1917&hide_border=true" />
+</a>
