@@ -1,10 +1,14 @@
-# 🎮 Shivanagouda Linganagoudra
-— **Unity Game Programmer**  
-*Indie Game Developer • Systems Designer • Code Enthusiast*
+<div align="center">
+  <img src="https://github.com/RahulLinganagoudra/MediaResources/blob/main/Cover.png?raw=true"/>
+</div>
+
 
 ---
 
 ## 💼 About Me
+
+— **Unity Game Programmer**  
+*Indie Game Developer • Systems Designer • Code Enthusiast*
 
 I'm a **Unity Game Developer** from **India** with a passion for crafting immersive and scalable gameplay systems. Whether it's prototyping new mechanics, optimizing core systems, or building tools to empower other developers, I love solving problems through code.
 
@@ -14,6 +18,7 @@ I'm a **Unity Game Developer** from **India** with a passion for crafting immers
 - 🔭 Currently diving deeper into **C++** and advanced game architecture  
 - 🤝 Open to **Indie Collaborations**, **Game Jams**, and **Freelance Projects**  
 - 🎯 **Goal**: To build systems that are not just functional — but fun
+
 
 ---
 
