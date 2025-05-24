@@ -1,3 +1,4 @@
+<div> <a href="https://github.com/RahulLinganagoudra" target="_blank">
 <div align="center">
   <img src="https://github.com/RahulLinganagoudra/MediaResources/blob/main/Cover.png?raw=true"/>
 </div>
@@ -7,7 +8,7 @@
 
 ## 💼 About Me
 
-— **Unity Game Programmer**  
+**Unity Game Programmer**  
 *Indie Game Developer • Systems Designer • Code Enthusiast*
 
 I'm a **Unity Game Developer** from **India** with a passion for crafting immersive and scalable gameplay systems. Whether it's prototyping new mechanics, optimizing core systems, or building tools to empower other developers, I love solving problems through code.
@@ -58,3 +59,5 @@ I'm a **Unity Game Developer** from **India** with a passion for crafting immers
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.savingsystem&title_color=f43f5e&text_color=ffffff&icon_color=7c3aed&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
