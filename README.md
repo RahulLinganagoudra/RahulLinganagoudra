@@ -31,12 +31,23 @@ I'm a **Unity Game Developer** from **India** with a passion for crafting immers
 
 
 ## 🧠 Skills
-
+![Unity](https://img.shields.io/badge/Unity-f43f5e?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-7c3aed?style=flat&logo=unrealengine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-f43f5e?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-7c3aed?style=flat&logo=cpp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-f43f5e?style=flat&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-f43f5e?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7c3aed?style=flat&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f43f5e?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-f43f5e?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7c3aed?style=flat&logo=bootstrap&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-f43f5e?style=flat&logo=blender&logoColor=white)
+
+---
+## Trophies
+<a href="https://github.com/RahulLinganagoudra">
+  <img src="https://github.com/RahulLinganagoudra/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" />
+</a>
 
 ---
 
