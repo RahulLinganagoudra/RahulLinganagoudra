@@ -44,10 +44,11 @@ I'm a **Unity Game Developer** from **India** with a passion for crafting immers
 ![Blender](https://img.shields.io/badge/Blender-f43f5e?style=flat&logo=blender&logoColor=white)
 
 ---
-## Trophies
-<a href="https://github.com/RahulLinganagoudra">
-  <img src="https://github.com/RahulLinganagoudra/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" />
-</a>
+## 🐍 Contribution Snake
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/RahulLinganagoudra/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
