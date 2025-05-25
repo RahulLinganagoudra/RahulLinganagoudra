@@ -83,13 +83,12 @@ Whether it's prototyping new mechanics, optimizing core systems, or building too
 
 ## Support
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Shivanagouda" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
-    <img src="https://github.com/RahulLinganagoudra/MediaResources/blob/main/Krishna_Disney-removebg-preview.png" alt="Your Logo" height="80"/>
+  <a href="https://ko-fi.com/shivanagouda_l" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Ko-fi" height="40"/>
+    &nbsp;&nbsp;
+    <img src="https://github.com/RahulLinganagoudra/MediaResources/blob/main/Krishna_Disney-removebg-preview.png?raw=true" alt="Your Logo" height="80"/>
   </a>
 </p>
-
-
 ---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
