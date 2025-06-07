@@ -1,0 +1,80 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    svg {
+      width: 100vw;
+      height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
+      overflow: hidden;
+    }
+
+    .wave {
+      animation: waveMove 6s ease-in-out infinite alternate;
+      fill: url(#grad1);
+    }
+
+    .wave:hover {
+      fill: url(#grad2);
+    }
+
+    #wave2 {
+      animation-duration: 8s;
+      animation-delay: 1s;
+      opacity: 0.6;
+    }
+
+    #wave3 {
+      animation-duration: 10s;
+      animation-delay: 2s;
+      opacity: 0.3;
+    }
+
+    @keyframes waveMove {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-50%) scaleY(1.05); }
+      100% { transform: translateX(-100%) scaleY(1); }
+    }
+
+    .devil {
+      animation: float 2.5s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes float {
+      0%   { transform: translateY(0) rotate(var(--rot)); }
+      50%  { transform: translateY(-2px) rotate(var(--rot)); }
+      100% { transform: translateY(0) rotate(var(--rot)); }
+    }
+  </style>
+
+  <defs>
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="
+           1 0 0 0 0  
+           0 1 0 0 0  
+           0 0 1 0 0  
+           0 0 0 13 -9" result="goo" />
+      <feBlend in="SourceGraphic" in2="goo" />
+    </filter>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f65c5c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a00000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0077;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6600;stop-opacity:1" />
+    </linearGradient>
+    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs>
+
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" />
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" />
+
+  <text x="53" y="14" class="devil" style="--rot: 0deg; animation-delay: 0s; font-size: 6px;">💀</text>
+  <text x="30" y="10" class="devil" style="--rot: -10deg; animation-delay: 0.3s; font-size: 4px;">👹</text>
+  <text x="80" y="12" class="devil" style="--rot: 15deg; animation-delay: 0.6s; font-size: 5px;">😈</text>
+  <text x="15" y="16" class="devil" style="--rot: 30deg; animation-delay: 0.9s; font-size: 3px;">👺</text>
+  <text x="100" y="13" class="devil" style="--rot: -20deg; animation-delay: 1.2s; font-size: 7px;">🐵</text>
+</svg>
