@@ -72,9 +72,9 @@ Whether it's prototyping new mechanics, optimizing core systems, or building too
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/RahulLinganagoudra/com.dreamertheory.gridsystem">
+  <!-- <a href="https://github.com/RahulLinganagoudra/com.dreamertheory.gridsystem">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.gridsystem&title_color=f43f5e&text_color=ffffff&icon_color=7c3aed&bg_color=1c1917&hide_border=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/RahulLinganagoudra/com.dreamertheory.savingsystem">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RahulLinganagoudra&repo=com.dreamertheory.savingsystem&title_color=f43f5e&text_color=ffffff&icon_color=7c3aed&bg_color=1c1917&hide_border=true" />
   </a>
